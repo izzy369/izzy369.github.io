@@ -1272,7 +1272,7 @@ input, select, textarea {
 			bottom: 0;
 			cursor: default;
 			left: 0;
-			position: absolute;
+			position: relative;
 			text-align: left;
 			width: 100%;
 			z-index: 2;
